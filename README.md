@@ -10,5 +10,7 @@ Computer Science student and front-end developer focused on building responsive,
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Stats Card" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=Initializing+developer+environment...;Loading+interactive+front-end+modules...;Bridging+creative+design+and+clean+code...;Welcome+to+my+portfolio." alt="Typing SVG" />
+  </a>
 </p>

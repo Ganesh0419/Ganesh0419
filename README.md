@@ -1,3 +1,27 @@
+const Ganesh = {
+
+    identity: "Front-End Developer",
+
+    class: "Creative Coder",
+
+    weapon: "JavaScript",
+
+    abilities: [
+        "Responsive UI",
+        "Interactive Experiences",
+        "Web Animation",
+        "Creative Development"
+    ],
+
+    currentQuest:
+        "Building interfaces that feel alive.",
+
+    philosophy:
+        "Don't just build websites. Build experiences."
+};
+
+
+
 <!--
 ████████████████████████████████████████████████████████████████
                  GANESH.EXE // PROFILE SYSTEM

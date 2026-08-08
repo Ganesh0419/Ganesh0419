@@ -1,6 +1,15 @@
 <!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=900&color=00FF66&center=true&vCenter=true&width=850&height=60&lines=%3E+Initializing+Ganesh.exe...;%3E+Front-End+Developer;%3E+Creative+Coder;%3E+Crafting+Interactive+Digital+Worlds;%3E+Turning+Ideas+Into+Experiences;%3E+System+Status%3A+ONLINE+%E2%9A%A1" />
+### `FRONT-END DEVELOPER • CREATIVE CODER • UI/UX ENTHUSIAST`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=700&color=00FF66&center=true&vCenter=true&width=800&height=55&lines=%3E+Awakening+Developer_Mode...;%3E+Loading+Creative+Engine...;%3E+Animation+Core%3A+ONLINE;%3E+Building+Digital+Experiences;%3E+System+Ready+%E2%9A%A1" />
+
+<br>
+
+`[ DEV MODE ]`　`[ CREATIVE MODE ]`　`[ ONLINE ]`
+
+</div>
 
 ## 🧑‍💻 About Me
 

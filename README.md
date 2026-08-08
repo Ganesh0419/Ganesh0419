@@ -1,16 +1,42 @@
-👋 Hello, I'm Ganesh Tayade
+<!-- ===================== HEADER ===================== -->
 
-Computer Science student and front-end developer focused on building responsive, high-performance web applications. I specialize in turning complex ideas into functional, pixel-perfect user interfaces.
+<div align="center">
 
-💻 Tech Interests: Interactive web design, interactive UI components, and modern web frameworks.
+# 👋 Hey, I'm Ganesh Tayade
 
-🌱 Learning: Advanced animation libraries, deployment optimization, and scalable architecture.
+### Front-End Developer • Creative Coder • UI/UX Enthusiast
 
-✉️ Reach me at: ganeshtayade818@gmail.com
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Turning+ideas+into+interactive+interfaces;Exploring+animations+%26+modern+web+technologies;Always+learning+something+new+%F0%9F%9A%80" />
 
+<br/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=Initializing+developer+environment...;Loading+interactive+front-end+modules...;Bridging+creative+design+and+clean+code...;Welcome+to+my+portfolio." alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ganesh0419&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```js
+const ganesh = {
+    role: "Front-End Developer",
+    education: "Computer Science Student",
+
+    focus: [
+        "Responsive Web Design",
+        "Interactive UI",
+        "Creative Animations",
+        "Modern Web Applications"
+    ],
+
+    currentlyLearning: [
+        "Advanced Animation",
+        "Performance Optimization",
+        "Scalable Architecture"
+    ],
+
+    mindset: "Build → Break → Learn → Improve 🚀",
+
+    funFact: "I can spend hours fixing 1px alignment issues 😅"
+};

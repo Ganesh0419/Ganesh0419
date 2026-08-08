@@ -1,42 +1,42 @@
-<!-- ===================== HEADER ===================== -->
+<!--
+████████████████████████████████████████████████████████████████
+                 GANESH.EXE // PROFILE SYSTEM
+████████████████████████████████████████████████████████████████
+-->
 
 <div align="center">
 
-# 👋 Hey, I'm Ganesh Tayade
+# ⚡ GANESH TAYADE
 
-### Front-End Developer • Creative Coder • UI/UX Enthusiast
+### `FRONT-END DEVELOPER // CREATIVE CODER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;Turning+ideas+into+interactive+interfaces;Exploring+animations+%26+modern+web+technologies;Always+learning+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Initializing+Ganesh.exe...;Front-End+Developer;UI+%2B+Animation+%2B+Code;Building+Digital+Experiences;Welcome+to+my+world+%E2%9A%A1" />
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Ganesh0419&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" />
+`STATUS: ONLINE` • `MODE: BUILDING` • `LEVEL: DEVELOPING`
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```js
-const ganesh = {
-    role: "Front-End Developer",
-    education: "Computer Science Student",
+## 🌌 `WELCOME TO THE SYSTEM`
 
-    focus: [
-        "Responsive Web Design",
-        "Interactive UI",
-        "Creative Animations",
-        "Modern Web Applications"
-    ],
-
-    currentlyLearning: [
-        "Advanced Animation",
-        "Performance Optimization",
-        "Scalable Architecture"
-    ],
-
-    mindset: "Build → Break → Learn → Improve 🚀",
-
-    funFact: "I can spend hours fixing 1px alignment issues 😅"
-};
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > BOOTING GANESH.EXE                                      ║
+║                                                              ║
+║   [████████████████████████████████] 100%                  ║
+║                                                              ║
+║   ✓ Identity loaded                                          ║
+║   ✓ Developer module loaded                                  ║
+║   ✓ Creativity module loaded                                 ║
+║   ✓ Animation engine loaded                                  ║
+║   ✓ Coffee.exe initialized                                   ║
+║                                                              ║
+║   SYSTEM READY.                                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
